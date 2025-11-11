@@ -43,7 +43,7 @@ class TestCalculator(unittest.TestCase):
 
     def test_log_invalid_base(self): # 1 assertion
         with self.assertRaises(ValueError):
-            log(10, -10000)
+            logarithm(10, -10000)
     # ##########################
     
     ######## Partner 1
