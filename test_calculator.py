@@ -1,3 +1,7 @@
+# https://github.com/TomasLeTrain/lab10-TLD-ES
+# Partner 1: Tomas Lopez Devia
+# Partner 2: Ethan Scheer
+
 import unittest
 from calculator import *
 
